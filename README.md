@@ -1,2 +1,3 @@
-# ict171cloudserver-a2
-Student Name &amp; Number: Aiza Talha - 35478826
+**Student Details:** <br>
+**Student Name**: Aiza Talha <br>
+**Student Number**: 35478826
